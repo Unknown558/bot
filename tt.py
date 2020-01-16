@@ -54,6 +54,6 @@ while True:
 
 
 
-	api.update_status(f"{book}: capítulo {chap}: versículo {vers}: {textopost}")
+	api.update_status(f"{book}: capítulo {chap}: versiculo {vers}: {textopost}")
 
 	time.sleep(1800)
